@@ -6,6 +6,22 @@
 
 - nodejs > 16.18.0 && pnpm > 8.6.0 (强制使用pnpm)
 
+# 项目关系
+
+## 后端项目
+
+| 项目                                                    | Star                                                         | 简介                            |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------- |
+| [yuxin-boot](https://github.com/theEtwahlSona/yuxin-boot) | [![GitHub stars](https://img.shields.io/github/stars/theEtwahlSona/yuxin-boot.svg?style=social&label=Stars)](https://github.com/theEtwahlSona/yuxin-boot) | 基于 Spring Boot 3.x 多模块架构 |
+
+
+
+## 前端项目
+
+| 项目                                                    | Star                                                         | 简介                                       |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ |
+| [yuxin-vue](https://github.com/theEtwahlSona/yuxin-vue) | [![GitHub stars](https://img.shields.io/github/stars/theEtwahlSona/yuxin-vue.svg?style=social&label=Stars)](https://github.com/theEtwahlSona/yuxin-vue) | 基于 Vue 3.x + element-plus 实现的管理后台 |
+
 # 技术栈
 
 ## 框架
