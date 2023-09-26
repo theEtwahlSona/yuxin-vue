@@ -74,10 +74,10 @@ const pretty = (type: string = 'primary', title: string, text: any): void => {
     console.log(
         `%c ${title} %c ${text} %c`,
         `background:${typeColor(type)};
-        border:1px solid ${typeColor(type)};
-        padding: 1px; 
-        border-radius: 4px 0 0 4px; 
-        color: #fff;`,
+         border:1px solid ${typeColor(type)};
+         padding: 1px; 
+         border-radius: 4px 0 0 4px; 
+         color: #fff;`,
         `border:1px solid ${typeColor(type)};
          padding: 1px; 
          border-radius: 0 4px 4px 0;
