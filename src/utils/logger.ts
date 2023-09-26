@@ -1,6 +1,4 @@
-const isArray = function (obj: any): boolean {
-    return Object.prototype.toString.call(obj) === '[object Array]'
-}
+import {isArray} from "lodash-es";
 
 const typeColor = (type: string): string => {
     let color = ''
